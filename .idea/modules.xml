@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaPart/JavaPart.iml" filepath="$PROJECT_DIR$/JavaPart/JavaPart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PythonPart/PythonPart.iml" filepath="$PROJECT_DIR$/PythonPart/PythonPart.iml" />
     </modules>
   </component>
 </project>
