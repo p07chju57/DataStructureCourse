@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.Course;
 
 public class Node {
     int _data;
